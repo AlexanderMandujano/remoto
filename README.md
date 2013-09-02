@@ -1,4 +1,4 @@
 remoto
 ======
 
-repositorio de prueva
+editando readme
