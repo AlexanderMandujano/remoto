@@ -13,10 +13,7 @@
  	var $error="";
  	#contructor
  	function DB_mysql($db="",$host="",$user="",$pass=""){
- 	  $this->basedatos=$db;
- 	  $this->servidor=$host;
- 	  $this->usuario=$user;
- 	  $this->clave=$pass;
+ 
  	}
  	#connecion a la base de datos
  	function conectar($db,$host,$user,$pass){
